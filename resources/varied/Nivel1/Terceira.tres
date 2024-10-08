@@ -1,0 +1,14 @@
+[gd_resource type="Resource" script_class="QuizQuestion" load_steps=3 format=3 uid="uid://ck0rw6xqv6i4k"]
+
+[ext_resource type="Script" path="res://scripts/resourses/question.gd" id="1_f4n1o"]
+[ext_resource type="Texture2D" uid="uid://bj1nr8i0pmeir" path="res://imgs/img_questions/N1 terceira.png" id="1_gal2e"]
+
+[resource]
+script = ExtResource("1_f4n1o")
+question_info = " Este código imprime todos os números impares de 1 a 20?"
+question_script = ExtResource("1_gal2e")
+Nivel = "Nivel: 01"
+Questao = "Questão: 3/4"
+type = 0
+options = Array[String](["Certo", "Errado"])
+correct = "Certo"

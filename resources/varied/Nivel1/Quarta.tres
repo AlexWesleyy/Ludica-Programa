@@ -1,0 +1,14 @@
+[gd_resource type="Resource" script_class="QuizQuestion" load_steps=3 format=3 uid="uid://6t046pcio45q"]
+
+[ext_resource type="Script" path="res://scripts/resourses/question.gd" id="1_7snyr"]
+[ext_resource type="Texture2D" uid="uid://brx7b220rej5h" path="res://imgs/img_questions/N1 quarta.png" id="1_btwru"]
+
+[resource]
+script = ExtResource("1_7snyr")
+question_info = "Problema: A saída deste código é 10."
+question_script = ExtResource("1_btwru")
+Nivel = "Nivel: 01"
+Questao = "Questão:  4/4"
+type = 0
+options = Array[String](["Verdadeira", "Falsa"])
+correct = "Verdadeira"

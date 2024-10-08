@@ -1,0 +1,14 @@
+[gd_resource type="Resource" script_class="QuizQuestion" load_steps=3 format=3 uid="uid://dnn5kb53or0ux"]
+
+[ext_resource type="Texture2D" uid="uid://cimhqn0eeqshg" path="res://imgs/img_questions/N3 primeira.png" id="1_qj6f4"]
+[ext_resource type="Script" path="res://scripts/resourses/question.gd" id="1_vxy6p"]
+
+[resource]
+script = ExtResource("1_vxy6p")
+question_info = "Este código cria uma matriz identidade 4x4?"
+question_script = ExtResource("1_qj6f4")
+Nivel = "Nivel: 03"
+Questao = "Questão: 1/3"
+type = 0
+options = Array[String](["Certo", "Errado"])
+correct = "Errado"

@@ -1,0 +1,14 @@
+[gd_resource type="Resource" script_class="QuizQuestion" load_steps=3 format=3 uid="uid://bj3l7p0x42pc5"]
+
+[ext_resource type="Texture2D" uid="uid://ftma0p2qejo" path="res://imgs/img_questions/N2 terceira.png" id="1_8o66a"]
+[ext_resource type="Script" path="res://scripts/resourses/question.gd" id="1_mqage"]
+
+[resource]
+script = ExtResource("1_mqage")
+question_info = "Problema: : Este código Soma dois vetores? "
+question_script = ExtResource("1_8o66a")
+Nivel = "Nivel: 02"
+Questao = "Questão: 3/5"
+type = 0
+options = Array[String](["Certo", "Errado"])
+correct = "Errado"

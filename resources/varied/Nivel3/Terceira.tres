@@ -1,0 +1,14 @@
+[gd_resource type="Resource" script_class="QuizQuestion" load_steps=3 format=3 uid="uid://cd7wnhcc8vu21"]
+
+[ext_resource type="Texture2D" uid="uid://dxkwxl3t5nxcc" path="res://imgs/img_questions/N3 terceira.png" id="1_ghxyb"]
+[ext_resource type="Script" path="res://scripts/resourses/question.gd" id="1_waj1h"]
+
+[resource]
+script = ExtResource("1_waj1h")
+question_info = "Este código cria uma matriz 3x3 onde cada elemento é um número consecutivo começando do 1?"
+question_script = ExtResource("1_ghxyb")
+Nivel = "Nivel: 03"
+Questao = "Questão: 3/3"
+type = 0
+options = Array[String](["Certo", "Errado"])
+correct = "Certo"

@@ -1,0 +1,14 @@
+[gd_resource type="Resource" script_class="QuizQuestion" load_steps=3 format=3 uid="uid://b60f6d7eut2hf"]
+
+[ext_resource type="Script" path="res://scripts/resourses/question.gd" id="1_25y4j"]
+[ext_resource type="Texture2D" uid="uid://bkwdt2lh33ase" path="res://imgs/img_questions/N2 segunda.png" id="1_hvhji"]
+
+[resource]
+script = ExtResource("1_25y4j")
+question_info = "Problema: : Este código recebe valores e adiciona dentro do vetor? "
+question_script = ExtResource("1_hvhji")
+Nivel = "Nivel: 02"
+Questao = "Questão: 2/5"
+type = 0
+options = Array[String](["Certo", "Errado"])
+correct = "Certo"

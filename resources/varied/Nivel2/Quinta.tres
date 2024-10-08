@@ -1,0 +1,14 @@
+[gd_resource type="Resource" script_class="QuizQuestion" load_steps=3 format=3 uid="uid://dymuvy8rkrldl"]
+
+[ext_resource type="Texture2D" uid="uid://m6cc0s3lwxg6" path="res://imgs/img_questions/N2 quinta.png" id="1_diuwk"]
+[ext_resource type="Script" path="res://scripts/resourses/question.gd" id="1_f3cci"]
+
+[resource]
+script = ExtResource("1_f3cci")
+question_info = "Este código imprime os números de 1 a 3."
+question_script = ExtResource("1_diuwk")
+Nivel = "Nivel: 02"
+Questao = "Questão: 5/5"
+type = 0
+options = Array[String](["Verdadeiro", "Falso"])
+correct = "Falso"

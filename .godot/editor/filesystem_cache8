@@ -1,0 +1,108 @@
+fc8a56933c4b1c8d796fdb8f7a9f9475
+::res://::1728412651
+default_bus_layout.tres::AudioBusLayout::1470676200902091741::1727544691::0::1::::<><>::
+export_presets.cfg::TextFile::-1::1728412011::0::1::::<><>::
+icon.svg::CompressedTexture2D::8721754070604463736::1727275618::1727275618::1::::<><>::
+README.md::TextFile::-1::1727275618::0::1::::<><>::
+::res://android/::1727388541
+::res://imgs/::1728409255
+elefante.jpg::CompressedTexture2D::6539689361411098154::1727275618::1727275618::1::::<><>::
+icone1.png::CompressedTexture2D::3204235342652661138::1728407617::1728407838::1::::<><>::
+Icone2.png::CompressedTexture2D::5274754689207054459::1728407720::1728407838::1::::<><>::
+Screenshot_1.png::CompressedTexture2D::8143393449316470052::1727275618::1727275618::1::::<><>::
+Screenshot_2.png::CompressedTexture2D::7573523005169215127::1727275618::1727275618::1::::<><>::
+TelaInicial.jpg::CompressedTexture2D::7761380487348673042::1727275618::1727275618::1::::<><>::
+::res://imgs/iconesIOS/::1728409277
+icone40.png::CompressedTexture2D::2956396487146832051::1728408972::1728409277::1::::<><>::
+icone58.png::CompressedTexture2D::5665426836795897762::1728409119::1728409277::1::::<><>::
+icone60.png::CompressedTexture2D::1901833568445759311::1728409186::1728409277::1::::<><>::
+icone76.png::CompressedTexture2D::8454517953098876156::1728408759::1728409277::1::::<><>::
+icone80.png::CompressedTexture2D::7010605258780193659::1728409038::1728409277::1::::<><>::
+icone87.png::CompressedTexture2D::1132094613527526859::1728409155::1728409277::1::::<><>::
+icone120.png::CompressedTexture2D::2396027621620531615::1728408683::1728409277::1::::<><>::
+icone152.png::CompressedTexture2D::6131163461532140223::1728408808::1728409277::1::::<><>::
+icone167.png::CompressedTexture2D::7125474486355932503::1728408897::1728409277::1::::<><>::
+icone180.png::CompressedTexture2D::8756942030696598687::1728408726::1728409277::1::::<><>::
+icone1024.png::CompressedTexture2D::1381902556942461871::1728408938::1728409277::1::::<><>::
+::res://imgs/img_questions/::1728309370
+N1 primeira.png::CompressedTexture2D::3724002466584753921::1727547773::1727547774::1::::<><>::
+N1 quarta.png::CompressedTexture2D::3629057904444403255::1728308392::1728308433::1::::<><>::
+N1 segunda.png::CompressedTexture2D::8359704718254365516::1727547810::1727548135::1::::<><>::
+N1 terceira.png::CompressedTexture2D::3072615524228691233::1727547833::1727548135::1::::<><>::
+N2 primeira.png::CompressedTexture2D::7935647348517190808::1727547945::1727548135::1::::<><>::
+N2 quarta.jpg::CompressedTexture2D::5418254235492904783::1728309134::1728309370::1::::<><>::
+N2 quinta.png::CompressedTexture2D::906388181783600551::1728309260::1728309370::1::::<><>::
+N2 segunda.png::CompressedTexture2D::3133942947205101352::1727548132::1727548135::1::::<><>::
+N2 terceira.png::CompressedTexture2D::11496980498077088::1727548283::1727548428::1::::<><>::
+N3 primeira.png::CompressedTexture2D::5359578962802421308::1727548357::1727548428::1::::<><>::
+N3 segunda.png::CompressedTexture2D::1780283104935260668::1727548386::1727548428::1::::<><>::
+N3 terceira.png::CompressedTexture2D::8795626701310596554::1727548426::1727548428::1::::<><>::
+::res://MoltenVK.xcframework/::1728412651
+::res://MoltenVK.xcframework/ios-arm64/::1728412651
+::res://MoltenVK.xcframework/ios-arm64_x86_64-maccatalyst/::1728412651
+::res://MoltenVK.xcframework/ios-arm64_x86_64-simulator/::1728412651
+::res://Programacao-ludica/::1728412649
+::res://Programacao-ludica/dylibs/::1728412649
+::res://Programacao-ludica/en.lproj/::1728412649
+::res://Programacao-ludica/Images.xcassets/::1728412651
+::res://Programacao-ludica/Images.xcassets/AppIcon.appiconset/::1728412651
+Contents.json::JSON::-1::1728412651::0::1::::<><>::
+Icon-40.png::CompressedTexture2D::3383178671926101109::1728412651::1728412704::1::::<><>::
+Icon-58.png::CompressedTexture2D::4120330056539100470::1728412651::1728412704::1::::<><>::
+Icon-60.png::CompressedTexture2D::8108744745336647441::1728412651::1728412704::1::::<><>::
+Icon-76.png::CompressedTexture2D::189364696069458726::1728412651::1728412704::1::::<><>::
+Icon-80.png::CompressedTexture2D::6945708580526457862::1728412651::1728412704::1::::<><>::
+Icon-87.png::CompressedTexture2D::4352234888422478972::1728412651::1728412704::1::::<><>::
+Icon-120.png::CompressedTexture2D::3677352047974536346::1728412651::1728412704::1::::<><>::
+Icon-152.png::CompressedTexture2D::1195135129536904210::1728412651::1728412704::1::::<><>::
+Icon-167.png::CompressedTexture2D::6872361108739370239::1728412651::1728412704::1::::<><>::
+Icon-180.png::CompressedTexture2D::5424053016644278736::1728412651::1728412704::1::::<><>::
+Icon-1024.png::CompressedTexture2D::3849458057352392207::1728412651::1728412704::1::::<><>::
+::res://Programacao-ludica/Images.xcassets/LaunchImage.launchimage/::1728412651
+::res://Programacao-ludica/Images.xcassets/SplashImage.imageset/::1728412651
+Contents.json::JSON::-1::1728412649::0::1::::<><>::
+splash@2x.png::CompressedTexture2D::5098566564803272524::1728412651::1728412704::1::::<><>::
+splash@3x.png::CompressedTexture2D::6087305594107565380::1728412651::1728412704::1::::<><>::
+::res://Programacao-ludica.xcframework/::1728412650
+::res://Programacao-ludica.xcframework/ios-arm64/::1728412650
+::res://Programacao-ludica.xcframework/ios-arm64_x86_64-simulator/::1728412650
+::res://Programacao-ludica.xcodeproj/::1728412651
+::res://Programacao-ludica.xcodeproj/project.xcworkspace/::1728412649
+::res://Programacao-ludica.xcodeproj/xcshareddata/::1728412649
+::res://Programacao-ludica.xcodeproj/xcshareddata/xcschemes/::1728412649
+::res://resources/::1727275618
+::res://resources/Fonts/::1727275618
+04B_11__.TTF::FontFile::3629397316231104414::1727275618::1727275618::1::::<><>::
+::res://resources/varied/::1727275618
+::res://resources/varied/Nivel1/::1728412458
+Primeira.tres::Resource/QuizQuestion::2325531137031915258::1728412458::0::1::::<><>::uid://btb61nxf2jvn2::::res://imgs/img_questions/N1 primeira.png<>res://scripts/resourses/question.gd
+Quarta.tres::Resource/QuizQuestion::2216648694446610288::1728412458::0::1::::<><>::res://scripts/resourses/question.gd<>uid://brx7b220rej5h::::res://imgs/img_questions/N1 quarta.png
+Segunda.tres::Resource/QuizQuestion::5905249465858156486::1728412458::0::1::::<><>::uid://drdrd6lnafyc7::::res://imgs/img_questions/N1 segunda.png<>res://scripts/resourses/question.gd
+Terceira.tres::Resource/Resource::5527412388471572492::1728308655::0::1::::<><>::res://scripts/resourses/question.gd<>uid://bj1nr8i0pmeir::::res://imgs/img_questions/N1 terceira.png
+::res://resources/varied/Nivel2/::1728412458
+Primeira.tres::Resource/Resource::3892229297690720901::1728309533::0::1::::<><>::uid://dlcc7m821reyq::::res://imgs/img_questions/N2 primeira.png<>res://scripts/resourses/question.gd
+Quarta.tres::Resource/QuizQuestion::5702251731726830900::1728412458::0::1::::<><>::res://scripts/resourses/question.gd<>uid://cjgv4dee3hk20::::res://imgs/img_questions/N2 quarta.jpg
+Quinta.tres::Resource/QuizQuestion::8869819985293525541::1728412458::0::1::::<><>::uid://m6cc0s3lwxg6::::res://imgs/img_questions/N2 quinta.png<>res://scripts/resourses/question.gd
+Segunda.tres::Resource/Resource::4614243432111521847::1728309533::0::1::::<><>::res://scripts/resourses/question.gd<>uid://bkwdt2lh33ase::::res://imgs/img_questions/N2 segunda.png
+Terceira.tres::Resource/Resource::3076648713429663718::1728309533::0::1::::<><>::uid://ftma0p2qejo::::res://imgs/img_questions/N2 terceira.png<>res://scripts/resourses/question.gd
+::res://resources/varied/Nivel3/::1727548484
+Primeira.tres::Resource/Resource::8100393397057625099::1727548484::0::1::::<><>::uid://cimhqn0eeqshg::::res://imgs/img_questions/N3 primeira.png<>res://scripts/resourses/question.gd
+Segunda.tres::Resource/Resource::5610719704987650885::1727548484::0::1::::<><>::res://scripts/resourses/question.gd<>uid://0mnadbuev54c::::res://imgs/img_questions/N3 segunda.png
+Terceira.tres::Resource/Resource::5050827346480717176::1727548484::0::1::::<><>::uid://dxkwxl3t5nxcc::::res://imgs/img_questions/N3 terceira.png<>res://scripts/resourses/question.gd
+::res://resources/varied/theme/::1728412458
+Tema_Variado.tres::Resource/QuizTheme::5628575000372774507::1728412458::0::1::::<><>::res://scripts/resourses/theme/theme.gd<>uid://8erfmyqxvpe5::::res://resources/varied/Nivel1/Primeira.tres<>uid://cqesui5vkv6vy::::res://resources/varied/Nivel1/Segunda.tres<>uid://ck0rw6xqv6i4k::::res://resources/varied/Nivel1/Terceira.tres<>uid://6t046pcio45q::::res://resources/varied/Nivel1/Quarta.tres<>uid://bvpoph0els0a8::::res://resources/varied/Nivel2/Primeira.tres<>uid://b60f6d7eut2hf::::res://resources/varied/Nivel2/Segunda.tres<>uid://bj3l7p0x42pc5::::res://resources/varied/Nivel2/Terceira.tres<>uid://dnn5kb53or0ux::::res://resources/varied/Nivel3/Primeira.tres<>uid://cnihiumpufmym::::res://resources/varied/Nivel2/Quarta.tres<>uid://cl64y7jpxo3n2::::res://resources/varied/Nivel3/Segunda.tres<>uid://dymuvy8rkrldl::::res://resources/varied/Nivel2/Quinta.tres<>uid://cd7wnhcc8vu21::::res://resources/varied/Nivel3/Terceira.tres
+::res://scenes/::1728412458
+Main.tscn::PackedScene::7563893818292837755::1728412458::0::1::::<><>::res://scripts/TelaInicial.gd<>uid://cmgr2p7euw6s2::::res://resources/varied/theme/Tema_Variado.tres<>uid://brydv46tk0fd3::::res://resources/Fonts/04B_11__.TTF<>uid://dxgc5ufxgd86p::::res://sounds/correct.ogg<>uid://b10krkw44jqlx::::res://sounds/incorrect.ogg<>uid://doayrant2de6o::::res://imgs/Screenshot_1.png<>uid://df5w215xebxel::::res://imgs/Screenshot_2.png<>uid://dnknyse5y0hgf::::res://sounds/Trilha.ogg
+::res://scripts/::1728326190
+TelaInicial.gd::GDScript::-1::1728326190::0::1::::<>Node<>::
+::res://scripts/Enum/::1727275618
+enums.gd::GDScript::-1::1727275618::0::1::::Enum<>RefCounted<>::
+::res://scripts/resourses/::1727547304
+question.gd::GDScript::-1::1727547304::0::1::::QuizQuestion<>Resource<>::
+::res://scripts/resourses/theme/::1727275618
+theme.gd::GDScript::-1::1727275618::0::1::::QuizTheme<>Resource<>::
+::res://sounds/::1727275618
+correct.ogg::AudioStreamOggVorbis::8786167788325301321::1727275618::1727275618::1::::<><>::
+incorrect.ogg::AudioStreamOggVorbis::4263578151133437573::1727275618::1727275618::1::::<><>::
+Trilha.ogg::AudioStreamOggVorbis::8093193928869649397::1727275618::1727275618::1::::<><>::
+::res://TestesApk/::1728411710

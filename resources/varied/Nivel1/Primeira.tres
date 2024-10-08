@@ -1,0 +1,14 @@
+[gd_resource type="Resource" script_class="QuizQuestion" load_steps=3 format=3 uid="uid://8erfmyqxvpe5"]
+
+[ext_resource type="Texture2D" uid="uid://btb61nxf2jvn2" path="res://imgs/img_questions/N1 primeira.png" id="1_d77gy"]
+[ext_resource type="Script" path="res://scripts/resourses/question.gd" id="1_vrekk"]
+
+[resource]
+script = ExtResource("1_vrekk")
+question_info = "Problema: Este código imprime os números de 1 a 11."
+question_script = ExtResource("1_d77gy")
+Nivel = "Nivel: 01"
+Questao = "Questão:  1/4"
+type = 0
+options = Array[String](["Certo", "Errado"])
+correct = "Errado"

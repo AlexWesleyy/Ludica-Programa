@@ -1,0 +1,14 @@
+[gd_resource type="Resource" script_class="QuizQuestion" load_steps=3 format=3 uid="uid://bvpoph0els0a8"]
+
+[ext_resource type="Texture2D" uid="uid://dlcc7m821reyq" path="res://imgs/img_questions/N2 primeira.png" id="1_gg80e"]
+[ext_resource type="Script" path="res://scripts/resourses/question.gd" id="1_wpqux"]
+
+[resource]
+script = ExtResource("1_wpqux")
+question_info = "Problema: : Este código imprime os números de 1 a 5? "
+question_script = ExtResource("1_gg80e")
+Nivel = "Nivel: 02"
+Questao = "Questão: 1/5"
+type = 0
+options = Array[String](["Certo", "Errado"])
+correct = "Errado"
